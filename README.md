@@ -10,7 +10,7 @@ Clone the Project
 <br/>
 Open Command Prompt and write `npm install`
 <br/>
-You need to install the `Expo Go` application on the device on which you want to open the application.
+You need to install `Expo Go` application on the device on which you want to open the application.
 <br/>
 After running the Expo Go application on the device, you need to type `npm run start` in the project directory.
 <br/>
